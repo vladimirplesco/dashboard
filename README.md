@@ -22,18 +22,41 @@ Created
 
 Source
 
+Domains
+dashboard-4qsr.vercel.app
++1
+dashboard-4qsr-git-main-vladimirs-projects-294d3189.vercel.app
+dashboard-4qsr-hi9btdevh-vladimirs-projects-294d3189.vercel.app
+
+psql 'postgresql://neondb_owner:npg_N0mSCc7UbGkJ@ep-gentle-hat-adqrmkf3-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require'
+
+dashboard-git-main-vladimirs-projects-294d3189.vercel.app
+dashboard-b8o99o95k-vladimirs-projects-294d3189.vercel.app
+
+Domains
+dashboard-git-main-vladimirs-projects-294d3189.vercel.app
+dashboard-q225cem4v-vladimirs-projects-294d3189.vercel.app
+
+
+db neon-purple-chair
 main
 1794eb9
 My first commit in dashboard
 
 # Recommended for most uses
 
-DATABASE_URL=postgresql://neondb_owner:npg_N0mSCc7UbGkJ@ep-gentle-hat-adqrmkf3-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require
+DATABASE_URL=postgresql://return Response.json({
+  //   message:
+  //     'Uncomment this file and remove this line. You can delete this file when you are finished.',
+  // });neondb_owner:npg_N0mSCc7UbGkJ@ep-gentle-hat-adqrmkf3-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require
 
 
 # For uses requiring a connection without pgbouncer
 
-DATABASE_URL_UNPOOLED=postgresql://neondb_owner:npg_N0mSCc7UbGkJ@ep-gentle-hat-adqrmkf3.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require
+DATABASE_URL_UNPOOLED=postgresql://return Response.json({
+  //   message:
+  //     'Uncomment this file and remove this line. You can delete this file when you are finished.',
+  // });neondb_owner:npg_N0mSCc7UbGkJ@ep-gentle-hat-adqrmkf3.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require
 
 
 # Parameters for constructing your own connection string
@@ -43,7 +66,10 @@ PGHOST=ep-gentle-hat-adqrmkf3-pooler.c-2.us-east-1.aws.neon.tech
 PGHOST_UNPOOLED=ep-gentle-hat-adqrmkf3.c-2.us-east-1.aws.neon.tech
 
 PGUSER=neondb_owner
-
+return Response.json({
+  //   message:
+  //     'Uncomment this file and remove this line. You can delete this file when you are finished.',
+  // });
 PGDATABASE=neondb
 
 PGPASSWORD=npg_N0mSCc7UbGkJ
@@ -51,7 +77,10 @@ PGPASSWORD=npg_N0mSCc7UbGkJ
 
 # Parameters for Vercel Postgres Templates
 
-POSTGRES_URL=postgresql://neondb_owner:npg_N0mSCc7UbGkJ@ep-gentle-hat-adqrmkf3-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require
+POSTGRES_URL=postgresql://return Response.json({
+  //   message:
+  //     'Uncomment this file and remove this line. You can delete this file when you are finished.',
+  // });neondb_owner:npg_N0mSCc7UbGkJ@ep-gentle-hat-adqrmkf3-pooler.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require
 
 POSTGRES_URL_NON_POOLING=postgresql://neondb_owner:npg_N0mSCc7UbGkJ@ep-gentle-hat-adqrmkf3.c-2.us-east-1.aws.neon.tech/neondb?sslmode=require
 
